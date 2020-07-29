@@ -18,7 +18,7 @@ def num_div():
 def num_sqr():
     c=a*a
     return c
-#Here we are asking the user for waht operation to be performed and waht are the numbers    
+#Here we are asking the user for what operation to be performed and what are the numbers    
 x=input("what operation do you want to perform? ")
 a=int(input("enter 1st value:"))
 b=int(input("enter 2nd value:"))
